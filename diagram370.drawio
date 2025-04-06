@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.3">
+  <diagram name="Page-1" id="Cb5numnliyyEe55iVAtS">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9KCt322rTlPruZtR79Lm-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="850" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="660" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="530" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="840" y="370" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-4" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="430" as="sourcePoint" />
+            <mxPoint x="390" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-5" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="430" as="sourcePoint" />
+            <mxPoint x="920" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="319.68" as="sourcePoint" />
+            <mxPoint x="940" y="319.68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="605" y="227.5" width="40" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Rotor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Shaft&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bearings&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9KCt322rTlPruZtR79Lm-12" value="Schematic of Laval-Jeffcott Rotor System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="160" width="285" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
